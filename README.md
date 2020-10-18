@@ -14,12 +14,13 @@ Hi, I'm Mohamad Ali Farhan, currently, I'm a Fullstack Developer Trainee at Arka
 ✔️ I'm currently learning
 - ExpressJS
 - VueJS
+- ReactJS
 - NodeJS
 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Node JS, Express JS, Vue JS
+- 🌱 I’m currently learning Node JS, Express JS, Vue JS, React JS
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
 
