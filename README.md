@@ -8,7 +8,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
-Hi, I'm Mohamad Ali Farhan, currently, I'm a Bootcamp Talent at Arkademy
+Hi, I'm Mohamad Ali Farhan, currently, I'm a Fullstack Developer Trainee at Arkademy
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
 ✔️ I'm currently learning
