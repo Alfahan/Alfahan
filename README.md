@@ -11,16 +11,9 @@
 Hi, I'm Mohamad Ali Farhan
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
-✔️ I'm currently learning
-- ExpressJS
-- VueJS
-- ReactJS
-- NodeJS
-
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Node JS, Express JS, Vue JS, React JS
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
 
