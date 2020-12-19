@@ -5,11 +5,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/alfa_han/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ali.farhan160@gmail.com)
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
 Hi, I'm Mohamad Ali Farhan
-<!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
 
 Here are some ideas to get you started:
