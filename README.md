@@ -8,6 +8,9 @@
 
 Hi, I'm Mohamad Ali Farhan I'm a Fullstack Developer at PT. Jidoka System Indonesia
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanmoch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
 
 Here are some ideas to get you started:
 
@@ -18,13 +21,9 @@ Here are some ideas to get you started:
 - be A Fullstack Javascript
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanmoch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-
 ![Alfahan github stats](https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight)
-
+<br />
+<br />
 
 **Languages and Tools:**  
 
@@ -37,4 +36,3 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
