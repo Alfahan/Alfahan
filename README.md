@@ -6,12 +6,17 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ali.farhan160@gmail.com)
 
 
-Hi, I'm Mohamad Ali Farhan
+Hi, I'm Mohamad Ali Farhan I'm a Fullstack Developer at PT. Jidoka System Indonesia
 
 
 Here are some ideas to get you started:
 
 - 📫 How to reach me: ali.farhan160@gmail.com 
+
+
+💡 Goals for 2021
+- be A Fullstack Javascript
+- passed Probation
 
 
 **Languages and Tools:**  
