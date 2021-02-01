@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
 
-💡 Goals for 2021
-- be A Fullstack Developer
-
 
 ![Alfahan github stats](https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight)
 <br />
