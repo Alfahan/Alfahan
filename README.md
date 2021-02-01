@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Mohamad Ali Farhan I'm a Fullstack Developer at PT. Jidoka System Indonesia
+Hi, I'm Mohamad Ali Farhan I'm a Software Developer at PT. Jidoka System Indonesia
 
 Here are some ideas to get you started:
 
