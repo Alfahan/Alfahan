@@ -9,7 +9,6 @@
 Hi, I'm Mohamad Ali Farhan I'm a Software Developer from Indonesia
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" border-radius="20"/>
-  
 
 Here are some ideas to get you started:
 
