@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ali.farhan160@gmail.com)
 
 
-Hi, I'm Mohamad Ali Farhan I'm a Software Developer from Indonesia
+Hi, I'm Mohamad Ali Farhan and I'm a Software Developer from Indonesia
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" border-radius="20"/>
 
