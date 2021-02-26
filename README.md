@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahan&layout=compact)](https://github.com/alfahan/github-readme-stats)
-<br />
-<br />
 
 ![Alfahan github stats](https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight)
 <br />
