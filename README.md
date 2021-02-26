@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <br />
 
 📈 My GitHub Stats
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfahan&layout=compact" alt="alfahan")
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfahan&layout=compact" alt="alfahan")
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight" alt="alfahan")
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight" alt="alfahan")
 <br />
 <br />
 
