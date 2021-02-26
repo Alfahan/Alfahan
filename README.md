@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
 
-![Alfahan github stats](https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight)
+
+
+<br />
+<br />
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight" alt="alfahan")
 <br />
 <br />
 
