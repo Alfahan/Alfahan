@@ -9,10 +9,16 @@
 <br />
 <br />
 
-Hi, I'm Mohamad Ali Farhan I'm a Software Developer at PT. Jidoka System Indonesia
+Hi, I'm Mohamad Ali Farhan I'm a Software Developer from Indonesia
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 
 Here are some ideas to get you started:
 
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Flutter and Odoo ERP; 
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
 
