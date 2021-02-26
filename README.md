@@ -8,7 +8,7 @@
 
 Hi, I'm Mohamad Ali Farhan I'm a Software Developer from Indonesia
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" border-radius="20"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" border-radius="20"/>
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
-
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfahan&layout=compact)](https://github.com/alfahan/github-readme-stats)
 <br />
 <br />
