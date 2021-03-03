@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Alfahan)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=Discord&logoColor=white)](https://discord.com/channels/705334127959998514/733522797124517950)
