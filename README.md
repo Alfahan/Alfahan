@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-📈 My GitHub Status
+📈 **My GitHub Status**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfahan&layout=compact" alt="alfahan")
 
 <br />
