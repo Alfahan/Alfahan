@@ -14,7 +14,7 @@ Hi, I'm Mohamad Ali Farhan and I'm a Backend Developer at Digital Amoeba (Studex
 Here are some ideas to get you started:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter; 
+- 🌱 I’m JavaScript Enthusiast; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
