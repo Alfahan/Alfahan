@@ -32,7 +32,13 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alfahan&show_icons=true&theme=tokyonight" alt="alfahan")
 <br />
 <br />
-
+  
+  
+#### Visitor
+ <br>
+  <p align="left">
+  <img src="https://profile-counter.glitch.me/sofyanmoch/count.svg" />
+  </p>
 
 **Languages and Tools:**  
 
