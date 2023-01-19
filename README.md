@@ -16,7 +16,6 @@ I'm a Software Developer
 Here are some ideas to get you started:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m JavaScript Enthusiast; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ali.farhan160@gmail.com 
 
