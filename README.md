@@ -9,7 +9,7 @@
 
 Hi, I'm Mohamad Ali Farhan 
 
-I'm a Software Developer
+I'm a Software Engineer
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" border-radius="20"/>
 
