@@ -35,8 +35,4 @@ Here are some ideas to get you started:
 <br />
   
   
-#### Visitor
- <br>
-  <p align="left">
-  <img src="https://profile-counter.glitch.me/alfahan/count.svg" />
-  </p>
+
